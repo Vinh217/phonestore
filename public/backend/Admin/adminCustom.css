@@ -1,0 +1,46 @@
+.v-login {
+    background: white;
+}
+.v-asides {
+    background-color: #FC5C31;
+}
+
+.v-add-to-cart {
+    background-color: #FC5C31 !important;
+    color: #FFFFFF !important;
+}
+
+.v-donhang {
+    color: #FC5C31;
+}
+
+.v-wrapper {
+    box-shadow: 2px -1px 5px 3px rgba(0,0,0,0.22);
+    -webkit-box-shadow: 2px -1px 5px 3px rgba(0,0,0,0.22);
+    -moz-box-shadow: 2px -1px 5px 3px rgba(0,0,0,0.22);
+    margin-top: 20px;
+    /* margin-right: 10px; */
+    padding-top: 10px;
+}
+
+.v-flex-list {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+}
+
+.v-total-list {
+    margin: auto;
+    color: #FC5C31;
+    margin-top: 20px;
+    font-size: 20px;
+    text-align: right;
+}
+
+.wrap-login100 {
+    box-shadow: 1px 0px 16px 12px rgba(0,0,0,0.12);
+    -webkit-box-shadow: 1px 0px 16px 12px rgba(0,0,0,0.12);
+    -moz-box-shadow: 1px 0px 16px 12px rgba(0,0,0,0.12);
+    width: 400px;
+}

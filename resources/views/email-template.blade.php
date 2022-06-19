@@ -1,0 +1,1 @@
+<span>Email verifired</span>
